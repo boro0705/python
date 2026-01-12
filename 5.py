@@ -1,3 +1,5 @@
+print("hajrá fradi")
+
 import random
 kocka = random.randint(1,6)
 lehetőségek = (1,2,3,4,5,6)
